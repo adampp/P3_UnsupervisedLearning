@@ -1,0 +1,10 @@
+====================================================
+LearningCurve-1-Baby-NeuralNet:
+train=0.9043004798818753, test=0.8948421606228915
+====================================================
+GridSearch-1-Baby-EM-NeuralNet:
+Score=0.9053562342598888, params={'activation': 'tanh', 'hidden_layer_sizes': (10,), 'learning_rate_init': 0.01}
+train=0.9043004798818753, test=0.8948421606228915
+====================================================
+FinalTest-1-Baby-EM-NeuralNet:
+Train=0.9109020475926951, Test=0.890282131661442

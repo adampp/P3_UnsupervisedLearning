@@ -1,0 +1,10 @@
+====================================================
+LearningCurve-1-Baby-NeuralNet:
+train=0.9143595422665189, test=0.9048068001556373
+====================================================
+GridSearch-1-Baby-KMeans-NeuralNet:
+Score=0.9059142198677081, params={'activation': 'relu', 'hidden_layer_sizes': (5,), 'learning_rate_init': 0.01}
+train=0.9143595422665189, test=0.9048068001556373
+====================================================
+FinalTest-1-Baby-KMeans-NeuralNet:
+Train=0.9114554510237963, Test=0.8934169278996865

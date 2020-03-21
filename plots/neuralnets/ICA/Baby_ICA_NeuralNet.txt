@@ -1,0 +1,10 @@
+====================================================
+LearningCurve-1-Baby-NeuralNet:
+train=0.796234772978959, test=0.79691034176084
+====================================================
+GridSearch-1-Baby-ICA-NeuralNet:
+Score=0.8218123201511905, params={'activation': 'tanh', 'hidden_layer_sizes': (20,), 'learning_rate_init': 0.01}
+train=0.796234772978959, test=0.79691034176084
+====================================================
+FinalTest-1-Baby-ICA-NeuralNet:
+Train=0.8555617044825677, Test=0.8432601880877743

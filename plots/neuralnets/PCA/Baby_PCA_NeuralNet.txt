@@ -1,0 +1,10 @@
+====================================================
+LearningCurve-1-Baby-NeuralNet:
+train=0.8995016611295681, test=0.8887513522065016
+====================================================
+GridSearch-1-Baby-PCA-NeuralNet:
+Score=0.9047939729002852, params={'activation': 'relu', 'hidden_layer_sizes': (20,), 'learning_rate_init': 0.01}
+train=0.8995016611295681, test=0.8887513522065016
+====================================================
+FinalTest-1-Baby-PCA-NeuralNet:
+Train=0.904814609850581, Test=0.8934169278996865
