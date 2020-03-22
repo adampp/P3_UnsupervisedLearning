@@ -1,6 +1,6 @@
 Install/Setup Steps:
-1. Download and Extract https://github.com/adampp/P2_RandomizedOptimization
-    https://github.com/adampp/P2_RandomizedOptimization.git
+1. Download and Extract https://github.com/adampp/P3_UnsupervisedLearning
+    https://github.com/adampp/P3_UnsupervisedLearning.git
 
 2. Make sure scikit-learn, numpy, pandas, matplotlib, scipy, and all required dependencies are installed
 with Python 3.6+
